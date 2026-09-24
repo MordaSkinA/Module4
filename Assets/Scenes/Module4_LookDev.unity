@@ -1844,7 +1844,7 @@ MonoBehaviour:
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
   m_VolumeFrameworkUpdateModeOption: 2
-  m_RenderPostProcessing: 0
+  m_RenderPostProcessing: 1
   m_Antialiasing: 0
   m_AntialiasingQuality: 2
   m_StopNaN: 0
@@ -2665,7 +2665,7 @@ Light:
     m_Strength: 1
     m_Bias: 0.05
     m_NormalBias: 0.4
-    m_NearPlane: 0.2
+    m_NearPlane: 0.41
     m_CullingMatrixOverride:
       e00: 1
       e01: 0
@@ -2715,13 +2715,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1634253741}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.12003267, y: -0.12144994, z: -0.025141967, w: 0.9849924}
-  m_LocalPosition: {x: 15.9, y: 169.2, z: -235.4}
+  m_LocalRotation: {x: -0.0027691016, y: -0.21910033, z: 0.96944296, w: 0.110307604}
+  m_LocalPosition: {x: 273, y: 1078, z: -3124}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 13.318, y: -14.6, z: -4.638}
+  m_LocalEulerAnglesHint: {x: 154.9, y: -183.4, z: -13.74}
 --- !u!114 &1634253744
 MonoBehaviour:
   m_ObjectHideFlags: 0
